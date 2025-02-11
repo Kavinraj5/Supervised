@@ -9,7 +9,7 @@ Health insurance claim costs depend on several factors, including personal healt
 To address this challenge, insurance companies utilize various analytical and predictive techniques to estimate health insurance claims more accurately and automate the process. The goal is to develop a reliable model that can predict claim amounts based on key health and demographic factors, ultimately leading to fair pricing and better financial management.
 
 
-###Table of Contents
+### Table of Contents
 1. Import Libraries.
    
 2. Set Options.
@@ -89,7 +89,7 @@ To address this challenge, insurance companies utilize various analytical and pr
 8. Conclusion and Interpretation.
 
 
-###Analysis and Conclusion  
+### Analysis and Conclusion  
 
 The graph presents the performance metrics of the implemented models, including **Root Mean Squared Error (RMSE), R-squared (R²), and Adjusted R-squared (Adj. R²)**. The X-axis represents the model numbers as listed in the table.  
 
