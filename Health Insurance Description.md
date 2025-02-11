@@ -93,6 +93,6 @@ To address this challenge, insurance companies utilize various analytical and pr
 
 The graph presents the performance metrics of the implemented models, including **Root Mean Squared Error (RMSE), R-squared (R²), and Adjusted R-squared (Adj. R²)**. The X-axis represents the model numbers as listed in the table.  
 
-From the plot, we observe an **inverse relationship between R² values and RMSE**—as the R-squared(R²) value increases, the RMSE decreases. This trend indicates that models with higher R² values provide more accurate predictions, as they explain more variance in the data while minimizing errors.  
+From the plot, we observe an **inverse relationship between R-squared(R²) values and RMSE**—as the R-squared(R²) value increases, the RMSE decreases. This trend indicates that models with higher R² values provide more accurate predictions, as they explain more variance in the data while minimizing errors.  
 
 Among the tested models, **Linear Regression with Interaction** achieves the **highest accuracy**, evidenced by the highest R-squared(R²) and lowest RMSE. Based on these findings, we conclude that **Linear Regression with Interaction is the most suitable model** for predicting insurance claim amounts. Insurance companies can utilize this model to enhance their pricing strategies and risk assessment processes.
