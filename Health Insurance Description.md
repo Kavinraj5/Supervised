@@ -80,7 +80,7 @@ To address this challenge, insurance companies utilize various analytical and pr
   
    6.3 - Elastic Net Regression Model (OLS)
   
-7. Stochastic Gradient Descent - SGD (sklearn)
+7. Stochastic Gradient Descent - SGD (sklearn).
 
    7.1 - Linear Regression with SGD (sklearn)
   
@@ -89,7 +89,7 @@ To address this challenge, insurance companies utilize various analytical and pr
 8. Conclusion and Interpretation.
 
 
-### Analysis and Conclusion  
+### Analysis and Conclusion.
 
 The graph presents the performance metrics of the implemented models, including **Root Mean Squared Error (RMSE), R-squared (R²), and Adjusted R-squared (Adj. R²)**. The X-axis represents the model numbers as listed in the table.  
 
