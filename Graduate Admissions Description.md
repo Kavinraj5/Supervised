@@ -32,6 +32,7 @@ This dataset is designed to predict graduate admission chances from an Indian pe
    4.1 - Tune the Hyperparameters using GridSearchCV (Random Forest)
 
 ###Analysis and Conclusion
+
 Developed a predictive model for graduate admissions, highlighting **CGPA** as the most influential factor. Utilized classification algorithms to analyze admission probabilities, offering valuable insights for both students and universities. This approach helps students assess their chances of acceptance and enables universities to streamline their selection process based on key academic indicators.
 
    
